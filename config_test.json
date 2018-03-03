@@ -1,0 +1,7 @@
+{
+	"badger": {
+		"dir": "/tmp",
+		"value_dir": "/tmp",
+		"value_log_file_size": 21474836480
+	}
+}

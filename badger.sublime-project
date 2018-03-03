@@ -1,0 +1,22 @@
+{
+	"folders":
+	[
+		{
+			"path": "/home/elojah/go/src/github.com/elojah/badger",
+		}
+	],
+	"SublimeLinter": {
+		"linters":{
+			"gometalinter": {
+				"args": [
+					"--vendor",
+					"--disable=gotype",
+					"--disable=vetshadow",
+					"--disable=gocyclo",
+					"--fast",
+					"--json"
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,1228 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"acces",
+				"access_token"
+			],
+			[
+				"Acce",
+				"AccessTokens\t[][]byte ν"
+			],
+			[
+				"Users",
+				"UserSubset\tstruct ʈ"
+			],
+			[
+				"ListU",
+				"ListUsers\t[]ta.User, error ƒ"
+			],
+			[
+				"Li",
+				"ListUsers\t[]ta.User, error ƒ"
+			],
+			[
+				"Per",
+				"Permission_OWNER\t Ɩ"
+			],
+			[
+				"uuid",
+				"uuid\t[16]byte ν"
+			],
+			[
+				"UUI",
+				"UUID"
+			],
+			[
+				"Ri",
+				"Right"
+			],
+			[
+				"acce",
+				"accessToken\tulid.ULID ν"
+			],
+			[
+				"access",
+				"accessToken\t(main.go)"
+			],
+			[
+				"gocql",
+				"gocql\t package ρ"
+			],
+			[
+				"Wrte",
+				"RequestErrWriteFailure\tstruct ʈ"
+			],
+			[
+				"goc",
+				"gocql\t package ρ"
+			],
+			[
+				"userup",
+				"userUpdate\tta.UserUpdate ν"
+			],
+			[
+				"Reques",
+				"RequestErrUnavailable\t(errors.go)"
+			],
+			[
+				"UserS",
+				"UserSubset\t*ta.UserSubset ν"
+			],
+			[
+				"Firstn",
+				"FirstNameString"
+			],
+			[
+				"Firs",
+				"FirstNameValid"
+			],
+			[
+				"colb",
+				"colBytes\t[]byte ν"
+			],
+			[
+				"configs",
+				"configs\tservices.Configs ν"
+			],
+			[
+				"filecon",
+				"fileconf\tinterface{} ν"
+			],
+			[
+				"res",
+				"Resources\t[]string ν"
+			],
+			[
+				"cresou",
+				"cResources\t[]interface{} ν"
+			],
+			[
+				"W",
+				"Warning\t ƒ"
+			],
+			[
+				"l",
+				"Logger\t*logrus.Logger ν"
+			],
+			[
+				"Config",
+				"Config\tstruct ʈ"
+			],
+			[
+				"cfgl",
+				"cfgl\t*Launcher ν"
+			],
+			[
+				"pack",
+				"package api\t ʂ"
+			],
+			[
+				"exp",
+				"expected\tpayload ν"
+			],
+			[
+				"actu",
+				"actual\tpayload ν"
+			],
+			[
+				"pay",
+				"payload\tstruct ʈ"
+			],
+			[
+				"val",
+				"val\tIDSet ν"
+			],
+			[
+				"ven",
+				"vendor"
+			],
+			[
+				"lis",
+				"listen_addr\t*net.UDPAddr ν"
+			],
+			[
+				"Ser",
+				"Service\tstruct ʈ"
+			],
+			[
+				"De",
+				"DefaultServeMux\t*http.ServeMux ν"
+			],
+			[
+				"Lis",
+				"ListenAndServeTLS\terror ƒ"
+			],
+			[
+				"htt",
+				"http\t package ρ"
+			],
+			[
+				"Pr",
+				"Println\tn int, err error ƒ"
+			],
+			[
+				"tcph",
+				"tcpHandler\thttp.Handler ν"
+			],
+			[
+				"Ha",
+				"Handler\tinterface ¡"
+			],
+			[
+				"fmt",
+				"fmt\t package ρ"
+			],
+			[
+				"usercre",
+				"userCreate\tta.UserCreate ν"
+			],
+			[
+				"user",
+				"users\t...ta.User ν"
+			],
+			[
+				"glo",
+				"global.user"
+			],
+			[
+				"war",
+				"wArgs\t[]interface{} ν"
+			],
+			[
+				"uAr",
+				"uArgs\t[]interface{} ν"
+			],
+			[
+				"sPa",
+				"sPatch\tuserPatch ν"
+			],
+			[
+				"pat",
+				"patch\tUserPatch ν"
+			],
+			[
+				"userp",
+				"userPatch\tta.UserPatch ʈ"
+			],
+			[
+				"ins",
+				"insert\tstring ƒ"
+			],
+			[
+				"use",
+				"users\t[]ta.User ʈ"
+			],
+			[
+				"resu",
+				"results\t[]ta.User ν"
+			],
+			[
+				"query",
+				"query\t ν"
+			],
+			[
+				"subs",
+				"subset\tuserSubset ν"
+			],
+			[
+				"wh",
+				"where\tstring, []interface{} ƒ"
+			],
+			[
+				"users",
+				"userSubset\tta.UserSubset ʈ"
+			],
+			[
+				"userP",
+				"userPatch\tta.UserPatch ʈ"
+			],
+			[
+				"UserP",
+				"UserPatch"
+			],
+			[
+				"Acc",
+				"AccessToken\t[]byte ν"
+			],
+			[
+				"args",
+				"args\t[]interface{} ν"
+			],
+			[
+				"UserSub",
+				"UserSubset\tstruct ʈ"
+			],
+			[
+				"NewUs",
+				"NewUser\tUser ƒ"
+			],
+			[
+				"userC",
+				"userCreate\tta.UserCreate ν"
+			],
+			[
+				"Hand",
+				"Handler\tstruct ʈ"
+			],
+			[
+				"P",
+				"Println\tn int, err error ƒ"
+			],
+			[
+				"wc",
+				"wc\twebquic.Service ν"
+			],
+			[
+				"Spr",
+				"Sprintf\tstring ƒ"
+			],
+			[
+				"L",
+				"Logger\t*logrus.Logger ν"
+			],
+			[
+				"En",
+				"Entry\tstruct ʈ"
+			],
+			[
+				"Hanl",
+				"Handler\tstruct ʈ"
+			],
+			[
+				"Permi",
+				"Permission\tint32 ʈ"
+			],
+			[
+				"new",
+				"NewEntry\t*logrus.Entry ƒ"
+			],
+			[
+				"logru",
+				"logrus\t package ρ"
+			],
+			[
+				"sha",
+				"shape.proto"
+			],
+			[
+				"Posi",
+				"Position"
+			],
+			[
+				"me",
+				"MetadataSubset"
+			],
+			[
+				"wherePermis",
+				"wherePermissions\t[]string ν"
+			],
+			[
+				"Last",
+				"LastName\tstring ν"
+			],
+			[
+				"Questb",
+				"QuestBuilder\tstruct ʈ"
+			],
+			[
+				"ULID",
+				"ULID\t[]byte ν"
+			],
+			[
+				"Metada",
+				"MetadataBuilder"
+			],
+			[
+				"MetadataBui",
+				"MetadataBuilder\tstruct ʈ"
+			],
+			[
+				"Me",
+				"Metadata\tstruct ʈ"
+			],
+			[
+				"User",
+				"UserBuilder"
+			],
+			[
+				"tasc",
+				"taScylla\t package ρ"
+			],
+			[
+				"Ac",
+				"AccessToken"
+			],
+			[
+				"With",
+				"WithField\t*logrus.Entry ƒ"
+			],
+			[
+				"wi",
+				"WithField\t*logrus.Entry ƒ"
+			],
+			[
+				"Wi",
+				"WithField\t*logrus.Entry ƒ"
+			],
+			[
+				"questULI",
+				"questULID\tulid.ULID ν"
+			],
+			[
+				"U",
+				"UnmarshalText\terror ƒ"
+			],
+			[
+				"ques",
+				"questULID\tulid.ULID ν"
+			],
+			[
+				"Add",
+				"AddPermission\t(user.go)"
+			],
+			[
+				"Statusno",
+				"StatusNotFound\t Ɩ"
+			],
+			[
+				"WriteH",
+				"WriteHeader\t ƒ"
+			],
+			[
+				"Statuin",
+				"StatusInternalServerError"
+			],
+			[
+				"Action",
+				"Action\tint32 ʈ"
+			],
+			[
+				"Permission_W",
+				"Permission_WRITE\t Ɩ"
+			],
+			[
+				"permis",
+				"Permission_READ\t Ɩ"
+			],
+			[
+				"Nota",
+				"NotAllowedError\tstruct ʈ"
+			],
+			[
+				"Miss",
+				"MissingPermissionError\tstruct ʈ"
+			],
+			[
+				"Not",
+				"NotAllowedError\tstruct ʈ"
+			],
+			[
+				"retu",
+				"return\t(ulid.go)"
+			],
+			[
+				"questUL",
+				"questUILD\tULID ν"
+			],
+			[
+				"Permis",
+				"Permissions\tmap[string]uint32 ν"
+			],
+			[
+				"ch",
+				"cHosts"
+			],
+			[
+				"test",
+				"testing\t package ρ"
+			],
+			[
+				"servi",
+				"services\t package ρ"
+			],
+			[
+				"scyll",
+				"scylla\t package ρ"
+			],
+			[
+				"p",
+				"package scylla\t ʂ"
+			],
+			[
+				"session",
+				"session\t*gocql.Session ν"
+			],
+			[
+				"Parse",
+				"ParseDuration\ttime.Duration, error ƒ"
+			],
+			[
+				"Par",
+				"ParseDuration\ttime.Duration, error ƒ"
+			],
+			[
+				"filec",
+				"fileconf\tinterface{} ν"
+			],
+			[
+				"Scy",
+				"Scylla\tservices.Namespace ν"
+			],
+			[
+				"Hosts",
+				"Hosts\t[]string ν"
+			],
+			[
+				"Certa",
+				"CertPath\tstring ν"
+			],
+			[
+				"Pass",
+				"Password\tstring ν"
+			],
+			[
+				"Pa",
+				"PasswordAuthenticator\tstruct ʈ"
+			],
+			[
+				"CL",
+				"cluster\t*gocql.ClusterConfig ν"
+			],
+			[
+				"pac",
+				"package couchbase\t ʂ"
+			],
+			[
+				"c",
+				"const\tconst (...) ʂ"
+			],
+			[
+				"N",
+				"Now\ttime.Time ƒ"
+			],
+			[
+				"impo",
+				"import\timport (...) ʂ"
+			],
+			[
+				"New",
+				"NewV4\tuuid.UUID ƒ"
+			],
+			[
+				"filen",
+				"filename\tstring ν"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packli",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"gosublime",
+				"GoSublime: Run build command"
+			],
+			[
+				"file new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"git bl",
+				"Git: Blame"
+			],
+			[
+				"camlca",
+				"Convert Case: camelCase"
+			],
+			[
+				"filedee",
+				"File: Delete"
+			],
+			[
+				"file del",
+				"File: Delete"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"late",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"snake",
+				"Convert Case: snake_case"
+			],
+			[
+				"file nfile ne",
+				"File: New File Relative to Current View"
+			],
+			[
+				"file n",
+				"File: New File Relative to Current View"
+			],
+			[
+				"prefs",
+				"Preferences: Settings"
+			],
+			[
+				"file rena",
+				"File: Rename"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 172.0,
+		"history":
+		[
+			"os.environ[\"GOPATH\"]",
+			"import os",
+			"os.environ[\"GOROOT\"]",
+			"os.environ[\"GOPATH\"]",
+			"os.environ",
+			"import os",
+			"os.environ[\"GOPATH\"]",
+			"import os"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/elojah/go/src/github.com/elojah/badger/Makefile",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/cmd/api/config.go",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/cmd/api/user.go",
+		"/home/elojah/.config/sublime-text-3/Packages/GoSublime/GoSublime.sublime-settings",
+		"/home/elojah/.config/sublime-text-3/Packages/Material Theme/Material-Theme-Darker.sublime-theme",
+		"/home/elojah/.config/sublime-text-3/Packages/GoSublime/USAGE.md",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/user.go",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/docker/scylla/global.cql",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/cmd/client/main.go",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/user.pb.go",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/data/scylla/user.go",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/docker-compose.yml",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/user.proto",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/vendor/github.com/gocql/gocql/errors.go",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/cmd/api/main.go",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/vendor/github.com/gocql/gocql/session.go",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/vendor/github.com/gocql/gocql/frame.go",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/cmd/api/handler.go",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/vendor/github.com/elojah/webquic/launcher.go",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/Makefile",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/bin/config.json",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/vendor/github.com/elojah/scylla/config.go",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/vendor/github.com/elojah/webquic/config.go",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/vendor/github.com/elojah/webquic/service.go",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/Gopkg.toml",
+		"/home/elojah/todo.md",
+		"/home/elojah/Downloads/Cequilfallaitdemontrer/custom.css",
+		"/home/elojah/Downloads/Cequilfallaitdemontrer/a_maitriser.html",
+		"/home/elojah/Downloads/Cequilfallaitdemontrer/par_coeur.html",
+		"/home/elojah/Downloads/Cequilfallaitdemontrer/*.tml",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/static/tripadventure/App.js",
+		"/home/elojah/.bashrc",
+		"/home/elojah/radiomeuh/radiomeuh.md",
+		"/home/elojah/.config/sublime-text-3/Packages/GoSublime/CHANGELOG.md",
+		"/home/elojah/go/src/github.com/elojah/webquic/service.go",
+		"/home/elojah/go/src/github.com/devsisters/goquic/server.go",
+		"/home/elojah/go/src/github.com/elojah/webquic/service_test.go",
+		"/snap/go/1404/src/crypto/tls/tls.go",
+		"/home/elojah/go/src/github.com/devsisters/goquic/example/client.go",
+		"/home/elojah/go/src/github.com/elojah/webquic/bin/cert.pem",
+		"/home/elojah/go/src/github.com/elojah/webquic/bin/key.pem",
+		"/home/elojah/go/src/github.com/elojah/webquic/config.go",
+		"/home/elojah/go/src/github.com/devsisters/goquic/client.go",
+		"/home/elojah/go/src/github.com/elojah/webquic/bin/cert.key",
+		"/home/elojah/go/src/github.com/elojah/webquic/Makefile",
+		"/home/elojah/go/src/github.com/elojah/webquic/glide.yaml",
+		"/home/elojah/go/src/github.com/devsisters/goquic/example/server.go",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/vendor/github.com/elojah/scylla/service_test.go",
+		"/snap/go/1333/src/net/udpsock.go",
+		"/snap/go/1333/src/net/net.go",
+		"/home/elojah/go/src/github.com/elojah/webquic/bin/leaf_cert.pem",
+		"/snap/go/1333/src/runtime/internal/atomic/stubs.go",
+		"/snap/go/1333/src/runtime/cgocall.go",
+		"/home/elojah/go/src/github.com/elojah/web/config.go",
+		"/home/elojah/go/src/github.com/elojah/web/launcher.go",
+		"/home/elojah/go/src/github.com/elojah/test/config.json",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/vendor/github.com/devsisters/goquic/server.go",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/vendor/github.com/devsisters/goquic/example/server.go",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/vendor/github.com/devsisters/goquic/example/client.go",
+		"/snap/go/1333/src/runtime/netpoll.go",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/vendor/github.com/devsisters/goquic/build_libs.sh",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/vendor/github.com/devsisters/goquic/.gitignore",
+		"/snap/go/1333/src/net/http/server.go",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/services.go",
+		"/home/elojah/go/src/github.com/oklog/ulid/ulid.go",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/data/scylla/service.go",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/quest.go",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/area.proto",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/area.pb.go",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/position.proto",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/shape.proto",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/metadata.proto",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/quest.proto",
+		"/home/elojah/src/resume/resume.tex",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/quest.pb.go",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/cmd/api/quest.go",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/errors.go",
+		"/home/elojah/go/src/github.com/elojah/scylla/.gitignore",
+		"/home/elojah/go/src/github.com/gocql/gocql/conn.go",
+		"/home/elojah/go/src/github.com/gocql/gocql/cluster.go",
+		"/home/elojah/go/src/github.com/elojah/scylla/Makefile",
+		"/home/elojah/go/src/github.com/gocql/gocql/frame.go",
+		"/home/elojah/.config/sublime-text-3/Packages/User/Git.sublime-settings",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/data/couchbase/user.go",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/docker/couchbase/user_table.cql",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/docker/couchbase/Dockerfile",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/docker/couchbase/entrypoint.sh",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/Gopkg.lock",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/ulid.go",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/bin/tripadventure_api_085e332-dirty",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/bin/tripadventure_api",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/static/src/node_modules/ajv/dist/ajv.bundle.js",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/static/src/node_modules/ajv/dist/ajv.min.js.map",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/static/src/node_modules/ajv/dist/regenerator.min.js",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/static/src/node_modules/ajv/lib/compile/formats.js",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/static/src/node_modules/configstore/node_modules/uuid/README.md",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/static/src/node_modules/configstore/node_modules/uuid/uuid.js",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/static/src/node_modules/configstore/node_modules/uuid/benchmark/README.md",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/static/src/node_modules/configstore/node_modules/uuid/benchmark/benchmark-native.c",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/static/src/node_modules/configstore/node_modules/uuid/misc/perf.js",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/static/src/node_modules/globals/globals.json",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/static/src/node_modules/sockjs/node_modules/uuid/README.md",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/static/src/node_modules/sockjs/node_modules/uuid/uuid.js",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/static/src/node_modules/sockjs/node_modules/uuid/benchmark/README.md",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/static/src/node_modules/sockjs/node_modules/uuid/benchmark/benchmark-native.c",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/static/src/node_modules/sockjs/node_modules/uuid/misc/perf.js",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/static/src/node_modules/uuid/README.md",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/static/src/node_modules/uuid/v1.js",
+		"/home/elojah/go/src/github.com/elojah/tripadventure/static/src/node_modules/uuid/lib/bytesToUuid.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 136.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///home/elojah/go/src/github.com/elojah/badger":
+	{
+		"height": 128.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 110.0
+	},
+	"output.GsDoc-output-output":
+	{
+		"height": 98.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 128.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 185.0
+	},
+	"output.clipboard_manager":
+	{
+		"height": 128.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"co",
+				"config.go"
+			],
+			[
+				"confi",
+				"config.go"
+			],
+			[
+				"make",
+				"Makefile"
+			],
+			[
+				"conf",
+				"cmd/api/config.go"
+			],
+			[
+				"laun",
+				"launcher.go"
+			],
+			[
+				"con",
+				"config.go"
+			],
+			[
+				"user",
+				"user.go"
+			],
+			[
+				"userp",
+				"user.proto"
+			],
+			[
+				"dockercompo",
+				"docker-compose.yml"
+			],
+			[
+				"userproto",
+				"user.proto"
+			],
+			[
+				"scyluser",
+				"data/scylla/user.go"
+			],
+			[
+				"main",
+				"cmd/client/main.go"
+			],
+			[
+				"apiuser",
+				"cmd/api/user.go"
+			],
+			[
+				"scylauser",
+				"data/scylla/user.go"
+			],
+			[
+				"usergo",
+				"user.go"
+			],
+			[
+				"userg",
+				"user.pb.go"
+			],
+			[
+				"userpbgo",
+				"user.pb.go"
+			],
+			[
+				"gocqlerror",
+				"vendor/github.com/gocql/gocql/errors.go"
+			],
+			[
+				"cmdapi",
+				"cmd/api/user.go"
+			],
+			[
+				"userro",
+				"user.proto"
+			],
+			[
+				"userpro",
+				"user.proto"
+			],
+			[
+				"handler",
+				"cmd/api/handler.go"
+			],
+			[
+				"gocqlsession",
+				"vendor/github.com/gocql/gocql/session.go"
+			],
+			[
+				"vendrogocqlsession",
+				"vendor/github.com/gocql/gocql/session.go"
+			],
+			[
+				"vendorgocqlsess",
+				"vendor/github.com/gocql/gocql/session.go"
+			],
+			[
+				"scylla",
+				"data/scylla/user.go"
+			],
+			[
+				"scylaconfg",
+				"vendor/github.com/elojah/scylla/config.go"
+			],
+			[
+				"confjs",
+				"bin/config.json"
+			],
+			[
+				"hand",
+				"cmd/api/handler.go"
+			],
+			[
+				"vendorwebquiclaun",
+				"vendor/github.com/elojah/webquic/launcher.go"
+			],
+			[
+				"vendorwebquicconf",
+				"vendor/github.com/elojah/webquic/config.go"
+			],
+			[
+				"vendorwebquicser",
+				"vendor/github.com/elojah/webquic/service.go"
+			],
+			[
+				"webquicser",
+				"vendor/github.com/elojah/webquic/service.go"
+			],
+			[
+				"apjs",
+				"App.js"
+			],
+			[
+				"cert",
+				"bin/cert.pem"
+			],
+			[
+				"key",
+				"bin/key.pem"
+			],
+			[
+				"servicete",
+				"service_test.go"
+			],
+			[
+				"serv",
+				"service.go"
+			],
+			[
+				"gliy",
+				"glide.yaml"
+			],
+			[
+				"servite",
+				"vendor/github.com/elojah/scylla/service_test.go"
+			],
+			[
+				"makef",
+				"Makefile"
+			],
+			[
+				"goquicserver",
+				"vendor/github.com/devsisters/goquic/server.go"
+			],
+			[
+				"config",
+				"config.go"
+			],
+			[
+				"cmdapimain",
+				"cmd/api/main.go"
+			],
+			[
+				"goquicserver.go",
+				"vendor/github.com/devsisters/goquic/server.go"
+			],
+			[
+				"cmdapiuse",
+				"cmd/api/user.go"
+			],
+			[
+				"services",
+				"services.go"
+			],
+			[
+				"cmdapiusr",
+				"cmd/api/user.go"
+			],
+			[
+				"configj",
+				"bin/config.json"
+			],
+			[
+				"cmdapiuser",
+				"cmd/api/user.go"
+			],
+			[
+				"dockerscy",
+				"docker/scylla/global.cql"
+			],
+			[
+				"scylla/",
+				"data/scylla/user.go"
+			],
+			[
+				"han",
+				"cmd/api/handler.go"
+			],
+			[
+				"dockerc",
+				"docker-compose.yml"
+			],
+			[
+				"s",
+				"services.go"
+			],
+			[
+				"ser",
+				"services.go"
+			],
+			[
+				"ques",
+				"quest.go"
+			],
+			[
+				"dock",
+				"docker-compose.yml"
+			],
+			[
+				"que",
+				"quest.proto"
+			],
+			[
+				"mai",
+				"main.go"
+			],
+			[
+				"shape",
+				"shape.proto"
+			],
+			[
+				"posi",
+				"position.proto"
+			],
+			[
+				"posio",
+				"position.proto"
+			],
+			[
+				"makefi",
+				"Makefile"
+			],
+			[
+				"shap",
+				"shape.proto"
+			],
+			[
+				"positiop",
+				"position.proto"
+			],
+			[
+				"metapro",
+				"metadata.proto"
+			],
+			[
+				"area",
+				"area.proto"
+			],
+			[
+				"postiopr",
+				"position.proto"
+			],
+			[
+				"questpro",
+				"quest.proto"
+			],
+			[
+				"questpbgo",
+				"quest.pb.go"
+			],
+			[
+				"quest",
+				"quest.go"
+			],
+			[
+				"cmdapiques",
+				"cmd/api/quest.go"
+			],
+			[
+				"userpb",
+				"user.pb.go"
+			],
+			[
+				"quesproto",
+				"quest.proto"
+			],
+			[
+				"questpb",
+				"quest.pb.go"
+			],
+			[
+				"user.pb",
+				"user.pb.go"
+			],
+			[
+				"error",
+				"errors.go"
+			],
+			[
+				"launcher",
+				"launcher.go"
+			],
+			[
+				"confg",
+				"config.go"
+			],
+			[
+				".gitigno",
+				".gitignore"
+			],
+			[
+				"service",
+				"service.go"
+			],
+			[
+				"userta",
+				"docker/couchbase/user_table.n1ql"
+			],
+			[
+				"usertabcql",
+				"docker/couchbase/user_table.cql"
+			],
+			[
+				"entrypoin",
+				"docker/couchbase/entrypoint.sh"
+			],
+			[
+				"uli",
+				"ulid.go"
+			],
+			[
+				"",
+				"cmd/api/handler.go"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
