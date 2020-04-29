@@ -11,7 +11,7 @@ type Service struct {
 
 // Dial sends the new config to Service.
 func (s *Service) Dial(c Config) error {
-	opt := badger.DefaultOptions
+	opt := badger.DefaultOptions("")
 	opt.Dir = c.Dir
 	opt.ValueDir = c.ValueDir
 	var err error
